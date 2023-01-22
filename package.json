@@ -1,0 +1,22 @@
+{
+  "name": "package",
+  "version": "0.0.5",
+  "description": "This is a color bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JayNightmare/Kevin.git"
+  },
+  "keywords": [
+    "color",
+    "code"
+  ],
+  "author": "Jay",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
