@@ -1,20 +1,17 @@
 {
   "name": "package",
-  "version": "0.0.5",
-  "description": "This is a color bot",
+  "version": "(version number)",
+  "description": "This is a bot",
   "main": "index.js",
   "scripts": {
     "test": "Hello!"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JayNightmare/Kevin.git"
+    "url": "https://github.com/<user>" // This is your github url page
   },
-  "keywords": [
-    "color",
-    "code"
-  ],
-  "author": "Jay",
+  "keywords": [],
+  "author": "Your Nickname",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.5.3"
