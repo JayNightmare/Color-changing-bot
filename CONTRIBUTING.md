@@ -1,0 +1,1 @@
+When you add code, leave a comment on where you added your new code and a note below stating what you added to the code. This is so if something goes wrong, I can quickly jump to where the issue is and debug it
